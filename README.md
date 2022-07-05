@@ -1,5 +1,5 @@
 # ESMRMB LMR 2022
-[ESMRMB LMR Online Course 2022: Machine Learning in MR Imaging](https://www.esmrmb.org/education/lectures-on-mr/)
+[ESMRMB Lectures on MR Online Course 2022: Machine Learning in MR Imaging](https://www.esmrmb.org/education/lectures-on-mr/)
 
 ## Course description
 
@@ -26,3 +26,10 @@ k.hammernik [at] tum.de
 Thomas Küstner<br/>
 Medical Image and Data Analysis (MIDAS.lab), Unversity Hospital of Tübingen, Germany<br/>
 thomas.kuestner [at] uni-tuebingen.de
+
+## Tutorials
+
+- The basics of MRI reconstruction - `Workbook_MRI_reconstruction.ipynb`
+
+## Data Statememt
+Data were acquired on a 3T Siemens Magnetom Vida at the Institute of Biomedical Imaging, Graz University of Technology, Austria. Data should be only used for educational purpose.
