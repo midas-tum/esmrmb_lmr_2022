@@ -19,11 +19,12 @@ On day 2, we present the solutions to the homework. We end our course with prese
 
 ## Course Organizers
 
-Kerstin Hammernik<br/>
+**Kerstin Hammernik**<br/>
 Artificial Intelligence in Healthcare and Medicine, Technical University of Munich, Germany<br/>
+Department of Computing, Imperial College London, United Kingdom<br/>
 k.hammernik [at] tum.de
 
-Thomas Küstner<br/>
+**Thomas Küstner**<br/>
 Medical Image and Data Analysis (MIDAS.lab), Unversity Hospital of Tübingen, Germany<br/>
 thomas.kuestner [at] uni-tuebingen.de
 
